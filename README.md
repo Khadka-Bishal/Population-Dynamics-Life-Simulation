@@ -59,7 +59,10 @@ This is a graphical simulation of Conway’s Game of Life and the population dyn
 ### Conway's Game of Life
 
 
-https://github.com/Khadka-Bishal/Population-Dynamics-Life-Simulation/assets/12107885/c60ae88c-f4f5-4dfa-ad6b-f2fd4cd17705
+
+https://github.com/Khadka-Bishal/Population-Dynamics-Life-Simulation/assets/12107885/ce9d3704-0573-4ab5-9a0f-f629a9ef1033
+
+
 
 
 
@@ -67,7 +70,10 @@ https://github.com/Khadka-Bishal/Population-Dynamics-Life-Simulation/assets/1210
 ### Goat-Plant Population Dynamics
 
 
-https://github.com/Khadka-Bishal/Population-Dynamics-Life-Simulation/assets/12107885/72d5e557-56d6-4335-b4b9-cd561ff68dd9
+https://github.com/Khadka-Bishal/Population-Dynamics-Life-Simulation/assets/12107885/b619f9db-8548-4b82-9be1-4943e1bcd3e0
+
+
+
 
 
 
